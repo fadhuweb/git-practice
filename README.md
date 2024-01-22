@@ -1,1 +1,1 @@
-# git-practice
+Group coding session
